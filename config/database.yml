@@ -1,0 +1,14 @@
+### Configures your database file
+
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  pool: 2
+  port: 5432
+
+development:
+  <<: *default
+  host: localhost
+  database: gps_collector
+  username: postgres
+  password: 

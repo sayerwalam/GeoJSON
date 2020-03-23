@@ -1,0 +1,16 @@
+current directory: /Users/mattmorgan/Downloads/sinatra-geo-json/vendor/bundle/ruby/2.5.0/gems/bond-0.5.1/ext/readline_line_buffer
+/Users/mattmorgan/.rvm/rubies/ruby-2.5.7/bin/ruby -r ./siteconf20200323-68042-kyzjbs.rb extconf.rb
+
+current directory: /Users/mattmorgan/Downloads/sinatra-geo-json/vendor/bundle/ruby/2.5.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR=" clean
+make: *** No rule to make target `clean'.  Stop.
+
+current directory: /Users/mattmorgan/Downloads/sinatra-geo-json/vendor/bundle/ruby/2.5.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR="
+echo "This is a dummy extension"
+This is a dummy extension
+
+current directory: /Users/mattmorgan/Downloads/sinatra-geo-json/vendor/bundle/ruby/2.5.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR=" install
+echo "This is a dummy extension"
+This is a dummy extension
