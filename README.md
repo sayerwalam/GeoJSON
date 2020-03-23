@@ -12,7 +12,7 @@
 `password: YOUR_PG_PASSWORD`
 
 
-#### Create databse and run migrations
+#### Create database and run migrations
 `rake db:create && rake db:migrate`
 
 
@@ -51,5 +51,5 @@
         coordinates[0][3][1] = 1.0` 
 
 ### To Lint the application
-      `Just Go to the roor directory and type rubocop`
+      `Just Go to the root directory and type rubocop`
 
